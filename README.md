@@ -2,9 +2,9 @@
 
 ## 📚 Pagina criada para estudo
 
-<p>Aplicação ligada a uma API de vendas, onde selecionando o periodo irá retornar a quantidade de vendas realizadas, valores recebidos e valores que ainda estão processando</p>
+<p>Aplicação ligada a uma API de vendas, onde selecionando o periodo irá retornar a quantidade de vendas realizadas, valores recebidos e valores que ainda estão em processamento</p>
 <br>
-<p>Foi usada uma biblioteca <strong>recharts</strong> para ter a visualização em gráfico para melhor entendimento.</p>
+<p>Foi usada a biblioteca <strong>recharts</strong> para se ter visualização em gráfico para melhor entendimento.</p>
 
 ![image](https://github.com/Duhandrade22/Fintech/assets/100982195/7ec45413-30d6-4a6e-a471-d7c4a434a43a)
 
