@@ -1,32 +1,25 @@
-<<<<<<< HEAD
-# React + TypeScript + Vite
+# projeto-startse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📚 Pagina criada para estudo
 
-Currently, two official plugins are available:
+<p>Aplicação ligada a uma API de vendas, onde selecionando o periodo irá retornar a quantidade de vendas realizadas, valores recebidos e valores que ainda estão processando</p>
+<br>
+<p>Foi usada uma biblioteca <strong>recharts</strong> para ter a visualização em gráfico para melhor entendimento.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Duhandrade22/Fintech/assets/100982195/7ec45413-30d6-4a6e-a471-d7c4a434a43a)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 📲 Responsive mid screen
 
-- Configure the top-level `parserOptions` property like this:
+![image](https://github.com/Duhandrade22/Fintech/assets/100982195/bd2218c5-65ad-4025-8d78-55791a07a8c4)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-=======
-# Fintech
-Projeto de conclusão de curso da Origamid - React com Typescript
->>>>>>> dd6955d4e10630ef0597a7d077050b760c1d82e8
+## 📲 Responsive Mobile
+
+![image](https://github.com/Duhandrade22/Fintech/assets/100982195/3ac1f749-dc85-4512-9e80-074a22c091e4)
+
+
+## 🧪 Technologies
+
+- [REACT](https://react.dev/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
