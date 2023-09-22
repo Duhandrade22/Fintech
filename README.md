@@ -6,7 +6,7 @@
 <br>
 <p>Foi usada a biblioteca <strong>recharts</strong> para se ter visualização em gráfico para melhor entendimento.</p>
 
-- [projeto-Fintech](https://app.netlify.com/sites/elaborate-lamington-09d1e8/overview)
+- [projeto-Fintech](https://elaborate-lamington-09d1e8.netlify.app/)
 
 ![image](https://github.com/Duhandrade22/Fintech/assets/100982195/7ec45413-30d6-4a6e-a471-d7c4a434a43a)
 
